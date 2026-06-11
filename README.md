@@ -1,1 +1,57 @@
-# game-ci-unity-request-activation-file
+# Unity - Request activation file
+
+(Not affiliated with Unity Technologies)
+
+**This action is no longer maintained and should not be used. Please follow the [updated activation steps](https://game.ci/docs/github/activation) for v4 and newer of Unity Actions.**
+
+GitHub Action for
+[requesting the manual activation file](https://github.com/marketplace/actions/unity-request-activation-file) for Unity.
+
+Part of the <a href="https://game.ci">GameCI</a> open source project.
+<br />
+<br />
+
+[![Actions status](https://github.com/game-ci/unity-request-activation-file/actions/workflows/main.yml/badge.svg)](https://github.com/game-ci/unity-request-activation-file/actions/workflows/main.yml)
+<br />
+<br />
+
+## How to use
+
+Find the
+[docs](https://game.ci/docs/github/activation)
+on the GameCI
+[documentation website](https://game.ci/docs).
+
+## Related actions
+
+Visit the
+GameCI <a href="https://github.com/game-ci/unity-actions">Unity Actions</a>
+status repository for related Actions.
+
+## Community
+
+Feel free to join us on
+<a href="http://game.ci/discord"><img height="30" src="media/Discord-Logo.svg" alt="Discord" /></a>
+and engage with the community.
+
+## Contributing
+
+To help improve the documentation, please find the docs [repository](https://github.com/game-ci/documentation).
+
+To contribute to this project, kindly read the [contribution guide](./CONTRIBUTING.md).
+
+## Support us
+
+GameCI is free for everyone forever.
+
+You can support us at [OpenCollective](https://opencollective.com/game-ci).
+
+## Licence
+
+This repository is [MIT](./LICENSE) licensed.
+
+This includes all contributions from the community.
+
+## Privacy
+
+This Action contacts Chainguard's licensing server to verify authorization. Connection metadata (IP address, GitHub repository identifier, timestamp, and any metadata encoded in the auth token) is transmitted to Chainguard, Inc. even if authorization is denied in accordance with our [Privacy Notice](https://www.chainguard.dev/legal/privacy-notice)

@@ -1,0 +1,10 @@
+name: 'Unity - Request Activation File'
+author: Webber Takken <webber@takken.io>
+description: '[DEPRECATED] Request the manual activation file for acquiring a Unity personal license.'
+branding:
+  icon: 'box'
+  color: 'gray-dark'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
+  pre: chainguard-phonehome.js
